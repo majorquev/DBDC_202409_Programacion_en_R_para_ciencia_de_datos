@@ -1,0 +1,8 @@
+Dirigirse al link 
+
+https://r4ds.had.co.nz/
+https://rstudio-education.github.io/hopr/
+https://www.tidytextmining.com/
+
+
+https://rstudio.com/resources/books/
