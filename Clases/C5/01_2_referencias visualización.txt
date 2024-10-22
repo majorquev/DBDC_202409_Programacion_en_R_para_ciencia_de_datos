@@ -1,0 +1,32 @@
+
+#############
+## ggplot2 ##
+#############
+
+https://ggplot2.tidyverse.org/reference/index.html
+https://r4ds.had.co.nz/data-visualisation.html
+https://www.rdocumentation.org/packages/ggplot2/versions/3.3.0
+
+#################
+## highcharter ##
+#################
+
+ * Official package website: http://jkunst.com/highcharter
+ * Replicating Highcharts Demos: https://cran.rstudio.com/web/packages/highcharter/vignettes/replicating-highcharts-demos.html
+ * CRAN site https://cran.r-project.org/web/packages/highcharter/.
+ * Shiny demo code https://github.com/jbkunst/shiny-apps/tree/master/highcharter.
+
+## referencia oficial (No R)
+Highcharts (http://highcharts.com) is a Highsoft product which is not free for commercial and Governmental use.
+
+#############
+## leaflet ##
+#############
+
+https://rstudio.github.io/leaflet/
+https://www.rdocumentation.org/packages/leaflet/versions/2.0.3
+https://github.com/rstudio/leaflet
+
+## referencia oficial (No R)
+https://leafletjs.com/reference-1.6.0.html
+
